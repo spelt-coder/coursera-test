@@ -1,2 +1,2 @@
 # coursera-test
-it's in the name
+Repo for my solutions to the web development course on coursera
